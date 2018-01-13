@@ -20,7 +20,7 @@ public enum ResponseCode {
     /**
      * 成功
      */
-    Success("successful", 200);
+    Success("success", 200);
 
     /**
      * 枚举名
